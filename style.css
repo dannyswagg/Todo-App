@@ -163,7 +163,7 @@ body {
 
 @media only screen and (max-device-width: 320px) {
     .wrapper {
-        width: 100%;
+        width: 90%;
         font-size: 5px;
     }
     .controls{
